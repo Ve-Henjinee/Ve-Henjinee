@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyunJin%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=HyunJin%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-# 안녕하다!!
-초보 개발자다!<br/>
-요즘 애들 영어 밖에 안쓰나?!<br/>
-한글 좀 만들어라!!!!
+# 소개
+Hi,<br/>
+I'm a novice developer with a passion for software development.<br/> 
+I strive to expand my knowledge and experience to create innovative solutions that improve people's lives.<br/>
+I'm eager to learn new technologies, take on new projects, and grow with other developers.<br/>
+Thank you for reading my introduction😊
 
 ## 요런거 배우고 있다!
 <p align="center">
