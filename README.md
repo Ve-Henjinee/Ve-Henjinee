@@ -14,8 +14,7 @@
 ## GitHub 통계!
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true)
 
-## 최근 프로젝트
-
-- [프로젝트 1](https://github.com/john-doe/project-1)
-- [프로젝트 2](https://github.com/john-doe/project-2)
-- [프로젝트 3](https://github.com/john-doe/project-3)
+## 다른 연락거리!
+<p style="font-family: 'GmarketSansMedium';">
+    📫 이메일: <a href="mailto:tov0821@outlook.kr">tov0821@outlook.kr</a><br>
+</p>
