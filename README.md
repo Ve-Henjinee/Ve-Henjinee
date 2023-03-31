@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center" style="font-family: 'GmarketSansMedium';">안녕하세요, 반갑습니다! 👋</h1>
+<h1 align="center" style="font-family: 'GmarketSansMedium'; animation: fadeIn 2s;">안녕하세요, 반갑습니다! 👋</h1>
 
 <!-- Introduction -->
 <p align="center" style="font-family: 'GmarketSansLight';">저는 웹 개발에 관심이 많은 초보 개발자입니다. HTML, CSS, Javascript, React를 주로 다루고 있습니다.</p>
@@ -23,3 +23,14 @@
 <p align="center" style="font-family: 'GmarketSansMedium';">
     <sub><sup>Designed with ❤️ by Me</sup></sub>
 </p>
+
+<style>
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+h1 {
+    animation: fadeIn 2s;
+}
+</style>
