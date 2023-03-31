@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">안녕하세요, 반갑습니다! 👋</h1>
+<h1 align="center" style="font-family: 'GmarketSansMedium';">안녕하세요, 반갑습니다! 👋</h1>
 
 <!-- Introduction -->
-<p align="center">저는 웹 개발에 관심이 많은 초보 개발자입니다. HTML, CSS, Javascript, React를 주로 다루고 있습니다.</p>
+<p align="center" style="font-family: 'GmarketSansLight';">저는 웹 개발에 관심이 많은 초보 개발자입니다. HTML, CSS, Javascript, React를 주로 다루고 있습니다.</p>
 
 <!-- Badges -->
 <p align="center">
@@ -13,13 +13,13 @@
 </p>
 
 <!-- Contact Information -->
-<p align="center">
+<p align="center" style="font-family: 'GmarketSansMedium';">
     📫 이메일: <a href="mailto:tov0821@outlook.kr">tov0821@outlook.kr</a><br>
     🌐 블로그: <a href="#">[Coming Soon]</a><br>
     💼 LinkedIn: <a href="#">[Coming Soon]</a>
 </p>
 
 <!-- Footer -->
-<p align="center">
+<p align="center" style="font-family: 'GmarketSansMedium';">
     <sub><sup>Designed with ❤️ by Me</sup></sub>
 </p>
