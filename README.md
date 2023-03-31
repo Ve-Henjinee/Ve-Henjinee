@@ -1,53 +1,21 @@
-<div align="center">
-  <img src="https://github.com/사용자이름.png" alt="사용자 이름" width="200px" />
-  <h1>Hello, I'm BAE HYUN JIN</h1>
-  <p>안녕하세요! 초보 개발자입니다. HTML, CSS, JavaScript, React 등을 배우고 있습니다.</p>
-  <br />
-  <p>저의 GitHub 프로필을 방문해주셔서 감사합니다!</p>
-</div>
+# 안녕하다!!
+초보 개발자다!<br/>
+요즘 애들 영어 밖에 안쓰나?!<br/>
+한글 좀 만들어라!!!!
 
-<style>
-  h1 {
-    font-size: 3em;
-    color: #222;
-    text-shadow: 1px 1px 0px #ccc,
-                 2px 2px 0px #c9c9c9,
-                 3px 3px 0px #bbb,
-                 4px 4px 0px #b9b9b9,
-                 5px 5px 0px #aaa,
-                 6px 6px 0px #999,
-                 7px 7px 0px #888,
-                 8px 8px 0px #777,
-                 9px 9px 0px #666,
-                 10px 10px 0px #555,
-                 11px 11px 0px #444,
-                 12px 12px 0px #333,
-                 13px 13px 0px #222,
-                 14px 14px 0px #111,
-                 15px 15px 5px #000;
-    animation: neon 0.1s ease-in-out infinite alternate;
-  }
-  
-  @keyframes neon {
-    from {
-      text-shadow: none;
-    }
-    to {
-      text-shadow: 1px 1px 0px #ccc,
-                   2px 2px 0px #c9c9c9,
-                   3px 3px 0px #bbb,
-                   4px 4px 0px #b9b9b9,
-                   5px 5px 0px #aaa,
-                   6px 6px 0px #999,
-                   7px 7px 0px #888,
-                   8px 8px 0px #777,
-                   9px 9px 0px #666,
-                   10px 10px 0px #555,
-                   11px 11px 0px #444,
-                   12px 12px 0px #333,
-                   13px 13px 0px #222,
-                   14px 14px 0px #111,
-                   15px 15px 5px #000;
-    }
-  }
-</style>
+## 요런거 배우고 있다!
+<p align="center">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" alt="HTML Badge">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=for-the-badge" alt="React Badge">
+</p>
+
+## GitHub 통계!
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true)
+
+## 최근 프로젝트
+
+- [프로젝트 1](https://github.com/john-doe/project-1)
+- [프로젝트 2](https://github.com/john-doe/project-2)
+- [프로젝트 3](https://github.com/john-doe/project-3)
