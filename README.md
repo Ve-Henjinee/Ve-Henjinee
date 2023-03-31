@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyunJin%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+
 # 안녕하다!!
 초보 개발자다!<br/>
 요즘 애들 영어 밖에 안쓰나?!<br/>
