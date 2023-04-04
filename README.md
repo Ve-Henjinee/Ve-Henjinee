@@ -23,7 +23,7 @@ Thank you for reading my introduction😊<br/>
 </p>
 
 ## GitHub Statistics
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true)
+![Ve-Henjinee GitHub stats](https://github-readme-stats.vercel.app/api?username=Ve-Henjinee&show_icons=true&theme=transparent)
 
 ## information
 <p style="font-family: 'GmarketSansMedium';">
